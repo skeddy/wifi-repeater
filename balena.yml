@@ -28,4 +28,5 @@ data:
   supportedDeviceTypes:
     - "raspberrypi3"
     - "raspberrypi4-64"
+    - "raspberrypi5"
 version: 0.1.2
