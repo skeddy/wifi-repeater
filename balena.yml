@@ -14,7 +14,7 @@ assets:
   repository:
     type: "blob.asset"
     data:
-      url: "https://github.com/balena-labs-projects/wifi-repeater"
+      url: "https://github.com/skeddy/wifi-repeater"
   logo:
     type: "blob.asset"
     data:
