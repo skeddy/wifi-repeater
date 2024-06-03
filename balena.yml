@@ -22,7 +22,7 @@ assets:
         er/logo.png"
 data:
   applicationEnvironmentVariables:
-    - AP_SSID: "WiFi Repeater"
+    - AP_SSID: "GardenWifi"
     - AP_PASSWORD: "charlietheunicorn"
   defaultDeviceType: "raspberrypi3"
   supportedDeviceTypes:
